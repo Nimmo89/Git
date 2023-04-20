@@ -25,4 +25,4 @@
 * OpenJDK version 11.0.11
 * IntelliJ IDEA Community Edition
 
-![Картинко](/Users/kpa/Git/002.jpg)
+![Картинко](https://github.com/Nimmo89/Git/blob/master/002.jpg)
